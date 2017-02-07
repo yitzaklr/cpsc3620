@@ -1,0 +1,11 @@
+FIRST CHOICE: Comet
+
+URL to the web site of the infrastructure or URL to the installation manual of the selected distributed platform: https://portal.xsede.org/sdsc-comet
+
+Name of the operating system for all the nodes: Linux (CentOS)
+
+Name of the scheduler: Slurm
+
+Name of the distributed/parallel file systems: Lustre
+
+Name of the CloudLab site that would best represent this infrastructure: Clemson/Dell - It's suitable for large memory-per-core projects, and Comet offers high-memory nodes
