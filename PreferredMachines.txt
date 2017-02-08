@@ -1,11 +1,11 @@
-FIRST CHOICE: Comet
+FIRST CHOICE: Bridges Large Memory
 
-URL to the web site of the infrastructure or URL to the installation manual of the selected distributed platform: https://portal.xsede.org/sdsc-comet
+URL to the web site of the infrastructure or URL to the installation manual of the selected distributed platform: https://portal.xsede.org/psc-bridges
 
 Name of the operating system for all the nodes: Linux (CentOS)
 
 Name of the scheduler: Slurm
 
-Name of the distributed/parallel file systems: Lustre
+Name of the distributed/parallel file systems: Pylon
 
-Name of the CloudLab site that would best represent this infrastructure: Clemson/Dell - It's suitable for large memory-per-core projects, and Comet offers high-memory nodes
+Name of the CloudLab site that would best represent this infrastructure: Clemson/Dell - It's suitable for large memory-per-core projects, which is a natural compliment to the high-memory nodes of the Bridges module
