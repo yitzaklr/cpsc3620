@@ -1,4 +1,4 @@
-FIRST CHOICE: Bridges Large Memory
+FIRST CHOICE: Bridges Large Memory, aka PSC Large Memory Nodes (Bridges Large)
 
 URL to the web site of the infrastructure or URL to the installation manual of the selected distributed platform: https://portal.xsede.org/psc-bridges
 
